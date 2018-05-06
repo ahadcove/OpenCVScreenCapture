@@ -1,0 +1,3 @@
+﻿  ScreenCapture.cpp
+c:\users\bk-v-w10\coding\cpp\libraries\screencapture\screencapture\src\screencapture.cpp(45): warning C4101: 'windowsize': unreferenced local variable
+  ScreenCapture.vcxproj -> C:\Users\Bk-V-W10\Coding\CPP\RocketLeagueCV\Debug\ScreenCapture.lib

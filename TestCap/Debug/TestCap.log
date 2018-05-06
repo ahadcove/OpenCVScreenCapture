@@ -1,0 +1,4 @@
+﻿  Application.cpp
+c:\users\bk-v-w10\coding\cpp\libraries\screencapture\testcap\src\application.cpp(1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\bk-v-w10\coding\cpp\libraries\screencapture\testcap\src\application.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  TestCap.vcxproj -> C:\Users\Bk-V-W10\Coding\CPP\Libraries\ScreenCapture\Debug\TestCap.exe
